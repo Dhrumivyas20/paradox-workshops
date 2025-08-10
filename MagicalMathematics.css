@@ -1,0 +1,67 @@
+.card{
+    background-color: #1e1e1e;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+
+.card img{
+    height: 300px;
+}
+
+.workshop-text{
+    padding-left: 20px;
+    padding-top: auto;
+    padding-right: 20px;
+}
+
+.workshop-text h3{
+    color: #ffd911;
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+#about{
+    color: #2596be;
+    font-size: 1.5em;
+}
+
+.workshop-text p{
+    color: #fff;
+}
+
+#description{
+    text-decoration: underline;
+}
+
+.workshop-text ul{
+    color: #fff;
+}
+
+.general-info{
+    display: flex;
+    gap: 100px;
+}
+
+#map{
+    padding-top: 38px;
+}
+
+#date-time-venue{
+    color: #2596be;
+}
+
+.workshop-text h5{
+    font-size: 1em;
+}
+
+.workshop-text h4{
+    color: #ffd911;
+    font-size: 1.5em;
+}
+
+#professor{
+    font-size: 1em;
+    color: #fff;
+}
